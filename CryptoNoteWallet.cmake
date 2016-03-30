@@ -1,4 +1,4 @@
 
-set(CN_PROJECT_NAME "cryptonoted")
-set(CN_CURRENCY_DISPLAY_NAME "cryptonote")
-set(CN_CURRENCY_TICKER "cryptonote")
+set(CN_PROJECT_NAME "txxd")
+set(CN_CURRENCY_DISPLAY_NAME "txx")
+set(CN_CURRENCY_TICKER "txx")
